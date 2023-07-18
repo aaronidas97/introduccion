@@ -1,0 +1,50 @@
+# Archivos y carpetas generados por el sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Entorno virtual de Python
+venv/
+env/
+*.env
+.env
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración local
+settings.py
+local_settings.py
+
+# Archivos generados por IDEs
+.idea/
+.vscode/
+
+# Archivos de caché y configuración del editor
+*.pyc
+*~
+\#*#
+.DS_Store
+
+# Archivos de migración de Django
+*/migrations/
+
+# Archivos de base de datos
+db.sqlite3
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Carpeta de medios generados
+media/
+
+# Dependencias instaladas
+/lib/
+/libs/
+/lib64/
+
+# Cualquier otro archivo o carpeta que desees excluir
+# (Asegúrate de agregar comentarios para explicar las exclusiones)
